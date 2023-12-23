@@ -24,7 +24,7 @@ Design a footer that includes social media icons linking to your profiles, copyr
 
 ![image](https://github.com/rheashetty23/AppleWebsite-BootStrap-HTML/assets/108348171/adb166f4-ead6-448e-a7fc-642d0ffa2b5d)
 
-![image](https://github.com/rheashetty23/AppleWebsite-BootStrap-HTML/assets/108348171/7a1b0b70-ea91-4594-aed1-7563f58f40a6)
+
 
 
 
